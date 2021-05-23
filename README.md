@@ -1,5 +1,5 @@
 # CoronaVirus-Tracker
-In this project, we required two python modules : 
+In this project, we require two python modules : 
 <h3>1. covid-india : </h3>
     It is the python package for providing data for the COVID-19 cases in India.This can provide data both online as well as offline.
     
